@@ -73,6 +73,37 @@
     font-weight: bold;
 }
 
+.sub-menu {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: none;
+    background-color: white;
+    border-radius: 12px;
+}
 
+.sub-menu li {
+    height: 30px;
+}
+
+.sub-menu a {
+    display: block;
+    line-height: 30px;
+    margin: 10px;
+    padding: 6px 11px;
+    font-weight: normal;
+    color: black;
+    border-radius: 5px;
+}
+
+.sub-menu a:hover {
+    background-color: #a0bf2c;
+    color: white;
+}
+
+.main-menu li:hover .sub-menu {
+    display: block;
+}
 
 
