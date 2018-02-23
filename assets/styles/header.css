@@ -1,0 +1,78 @@
+.header-block {
+    height: ;
+    padding: 50px 30px;
+}
+
+.hblock1 {
+    display: flex;
+    width: 429.5px;
+    height: 75px;
+}
+
+.hblock1 img {
+    width: 75px;
+    height: 75px;
+    margin-right: 15px;
+}
+
+.hblock1 h1 {
+    line-height: 75px;
+}
+
+.hblock2 {
+    width: 294px;
+    padding-left: 30px;
+    margin-left: 226px;
+    border-left: 2px solid #f4f4f4;
+}
+
+.number-tel {
+    margin-bottom: 5px;
+}
+
+.number-tel img {
+    height: 20px;
+    margin: 0 10px;
+    transform: rotate(90deg);
+}
+
+.number-tel a {
+    font-size: 18px;
+    color: black;
+}
+
+.number-tel a:hover {
+    color: #a0bf2c;
+}
+
+.social img {
+    height: 40px;
+    margin: 5px 12px;
+}
+
+.social img:hover {
+    transform: rotate(10deg);
+}
+
+/*HEADER MENU*/
+.main-menu {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    list-style-type: none;
+    height: 70px;
+    background-color: #a0bf2c;
+    border-radius: 5px;
+}
+
+.main-menu a {
+    padding: 10px 15px;
+    margin: 0 15px;
+    line-height: 70px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
