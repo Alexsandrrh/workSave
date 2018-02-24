@@ -62,7 +62,7 @@
     list-style-type: none;
     height: 70px;
     background-color: #a0bf2c;
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 .main-menu a {
@@ -80,17 +80,17 @@
     list-style-type: none;
     display: none;
     background-color: white;
-    border-radius: 12px;
+    border-radius: 6px;
 }
 
 .sub-menu li {
-    height: 30px;
+    height: 50px;
 }
 
 .sub-menu a {
     display: block;
     line-height: 30px;
-    margin: 10px;
+    margin: 5px;
     padding: 6px 11px;
     font-weight: normal;
     color: black;

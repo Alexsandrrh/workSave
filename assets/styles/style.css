@@ -20,3 +20,10 @@ ul {
 a {
     text-decoration: none;
 }
+
+/*SLIDER*/
+.bg-main {
+    background-image: url("../img/bg-main.jpg");
+    background-size: cover;
+    height: 1429px;
+}
